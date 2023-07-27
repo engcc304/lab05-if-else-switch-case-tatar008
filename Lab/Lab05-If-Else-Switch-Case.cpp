@@ -56,6 +56,5 @@ int main() {
     } else {
         printf( "F" ) ;
     }
-
     return 0 ;
 }//end main function
